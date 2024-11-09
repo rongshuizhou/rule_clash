@@ -1,0 +1,6 @@
+# 内容：OpenAi Bard anthropic
+# 域名后缀匹配
+DOMAIN-SUFFIX,jcf.niceduck.lol
+DOMAIN-SUFFIX,dpxcf.niceduck.lol
+DOMAIN-SUFFIX,cf.niceduck.lol
+PROCESS-NAME,com.mb.android
