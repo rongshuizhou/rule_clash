@@ -1,9 +1,10 @@
-
+# 关键字匹配
+HOST-KEYWORD, emby, Emby
 # 域名后缀匹配
-DOMAIN-SUFFIX,jcf.niceduck.lol
-DOMAIN-SUFFIX,dpxcf.niceduck.lol
-DOMAIN-SUFFIX,cf.niceduck.lol
-DOMAIN-SUFFIX, stream3.misakaf.org
-DOMAIN-SUFFIX, stream4.misakaf.org
-DOMAIN-SUFFIX, filmtoday.emby.moe
-DOMAIN-SUFFIX, stream1.misakaf.org
+DOMAIN-SUFFIX, jcf.niceduck.lol, Emby
+DOMAIN-SUFFIX, dpxcf.niceduck.lol, Emby
+DOMAIN-SUFFIX, cf.niceduck.lol, Emby
+DOMAIN-SUFFIX, stream3.misakaf.org, Emby
+DOMAIN-SUFFIX, stream4.misakaf.org, Emby
+DOMAIN-SUFFIX, filmtoday.emby.moe, Emby
+DOMAIN-SUFFIX, stream1.misakaf.org, Emby
