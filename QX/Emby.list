@@ -1,10 +1,36 @@
 # 关键字匹配
 HOST-KEYWORD, emby, Emby
-# 域名后缀匹配
-DOMAIN-SUFFIX, jcf.niceduck.lol, Emby
-DOMAIN-SUFFIX, dpxcf.niceduck.lol, Emby
-DOMAIN-SUFFIX, cf.niceduck.lol, Emby
-DOMAIN-SUFFIX, stream3.misakaf.org, Emby
-DOMAIN-SUFFIX, stream4.misakaf.org, Emby
-DOMAIN-SUFFIX, filmtoday.emby.moe, Emby
-DOMAIN-SUFFIX, stream1.misakaf.org, Emby
+
+
+#!Emby-HXD（好鸭机场服）
+DOMAIN-SUFFIX,bili.bili.rip,Emby
+DOMAIN-SUFFIX,cdn.bili.rip,Emby
+DOMAIN-SUFFIX,cf.bili.rip,Emby
+
+#!Emby-JMS（好鸭机场服）
+DOMAIN-SUFFIX,e.niceduck.me,Emby
+#!新增测试
+DOMAIN-SUFFIX,jms1.niceduck.lol,Emby
+DOMAIN-SUFFIX,jms2.niceduck.lol,Emby
+DOMAIN-SUFFIX,jms1v6.niceduck.lol,Emby
+
+#!Emby-loser（好鸭机场服）
+DOMAIN-SUFFIX,loacl.emby.moe,Emby
+DOMAIN-SUFFIX,cf.niceduck.lol,Emby
+DOMAIN-SUFFIX,jcf.niceduck.lol,Emby
+#!新增测试
+DOMAIN-SUFFIX,vi.niceduck.lol,Emby
+DOMAIN-SUFFIX,cfloacl.emby.moe,Emby
+DOMAIN-SUFFIX,cfloacl2.emby.moe,Emby
+DOMAIN-SUFFIX,loacl.emby.moe,Emby
+DOMAIN-SUFFIX,loacl2.emby.moe,Emby
+
+#!Emby-PiliPili（好鸭机场服）
+DOMAIN-SUFFIX,pilicf.niceduck.lol,Emby
+
+#!Emby-飞跃地平线（好鸭机场服）
+DOMAIN-SUFFIX,dpxcdn.niceduck.lol,Emby
+DOMAIN-SUFFIX,dpx1.niceduck.lol,Emby
+DOMAIN-SUFFIX,dpx1v6.niceduck.lol,Emby
+DOMAIN-SUFFIX,dpx2.niceduck.lol,Emby
+DOMAIN-SUFFIX,dpxcf.niceduck.lol,Emby
