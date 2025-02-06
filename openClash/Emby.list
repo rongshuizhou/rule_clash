@@ -1,7 +1,31 @@
-# 内容：OpenAi Bard anthropic
-# 域名后缀匹配
-DOMAIN-SUFFIX,jcf.niceduck.lol
-DOMAIN-SUFFIX,dpxcf.niceduck.lol
+
+#!Emby-HXD（好鸭机场服）
+DOMAIN-SUFFIX,bili.bili.rip
+DOMAIN-SUFFIX,cdn.bili.rip
+DOMAIN-SUFFIX,cf.bili.rip
+
+
+#!Emby-loser（好鸭机场服）
+DOMAIN-SUFFIX,loacl.emby.moe
 DOMAIN-SUFFIX,cf.niceduck.lol
+DOMAIN-SUFFIX,jcf.niceduck.lol
+#!新增测试
 DOMAIN-SUFFIX,vi.niceduck.lol
-PROCESS-NAME,com.mb.android
+DOMAIN-SUFFIX,cfloacl.emby.moe
+DOMAIN-SUFFIX,cfloacl2.emby.moe
+DOMAIN-SUFFIX,loacl.emby.moe
+DOMAIN-SUFFIX,loacl2.emby.moe
+
+#!Emby-PiliPili（好鸭机场服）
+DOMAIN-SUFFIX,pilicf.niceduck.lol
+
+#!Emby-飞跃地平线（好鸭机场服）
+DOMAIN-SUFFIX,dpxcdn.niceduck.lol
+DOMAIN-SUFFIX,dpx1.niceduck.lol
+DOMAIN-SUFFIX,dpx1v6.niceduck.lol
+DOMAIN-SUFFIX,dpx2.niceduck.lol
+DOMAIN-SUFFIX,dpxcf.niceduck.lol
+
+#!通用地址
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,niceduck.lol
